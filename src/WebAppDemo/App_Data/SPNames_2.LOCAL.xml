@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--LOCAL-->
+<Functions>
+  <Function Name="Odds">
+    <Setting Key="Odds_SportSel" SpName="Odds_SportSel" DbName="DBODDSFEED.bodb_OddsFeed.xxx" Plain="0" >
+    </Setting>
+  </Function>
+</Functions>

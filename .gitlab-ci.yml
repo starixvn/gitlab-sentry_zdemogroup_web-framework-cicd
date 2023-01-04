@@ -1,0 +1,4 @@
+include:
+  - project: "ci/common-ci"
+    ref: dynamic-ci
+    file: "nexcel.gitlab-ci.yml"

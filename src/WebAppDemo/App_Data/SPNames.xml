@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Functions>
+  <Function Name="NCB">
+    <Setting Key="NCB_ChatGroupMapping_Sel" SpName="NCB_ChatGroupMapping_Sel" DbName="DBACC.bodb02.xxx" Plain="0" >
+    </Setting>
+  </Function>
+</Functions>
